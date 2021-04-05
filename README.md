@@ -1,8 +1,8 @@
-- <h1 align="center">I am Sanmuhapriya</h1>
+<h1 align="center">I am Sanmuhapriya</h1>
 <h3 align="center">Never stop Exploring</h3>
 
 - 🔭 I’m currently working on **Face detection**
-
+- 📫 Reach me **priyasekar478@gmail.com**
 
 
   <h3 align="left">Languages and Tools:</h3>
